@@ -61,7 +61,7 @@ We call it /Collaborative Feedback/.
 
 ## seedling feedback
 
-- Why should the story succeed?
+- As a reader, why do you want this story to thrive?
 - What intrigues you about the story?
 
 ... plus other approaches
