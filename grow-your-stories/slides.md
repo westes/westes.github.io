@@ -1,14 +1,12 @@
-name: inverse
-layout: true
-class: center, middle, inverse
-
+% Grow Your Stories (With People Who Care)
+% Will Estes
+% May 27, 2023
 ---
 
 # Grow Your Stories
 ## With People Who Care
----
 
-layout: false
+---
 
 ## Why?
 
@@ -48,7 +46,7 @@ Games, exercises, discussion / q&a
 - to help you tell your story
 - you ask for what your story needs
 
-We call it /Collaborative Feedback/.
+We call it *Collaborative Feedback*.
 
 ---
 
@@ -65,6 +63,7 @@ We call it /Collaborative Feedback/.
 - What intrigues you about the story?
 
 ... plus other approaches
+
 ---
 
 ## Sapling feedback
