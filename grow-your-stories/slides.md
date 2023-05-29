@@ -52,9 +52,15 @@ We call it *Collaborative Feedback*.
 
 ### It's as easy as ...
 
-1. SEEDLING:  new writers and new stories need wild encouragement
-2. SAPLING: what works? Where is their room for growth?
-3. Does the story do what you want it to do in the ways you want that done?
+Seedling
+: new writers and new stories need wild encouragement
+
+SAPLING
+: what works? Where is their room for growth?
+
+Tree
+: Does the story do what you want it to do in the ways you want that done?
+
 ---
 
 ## seedling feedback
@@ -68,6 +74,11 @@ We call it *Collaborative Feedback*.
 
 ## Sapling feedback
 
-- 5c's: Compelling, Consistent, Convincing, Charming, Curious
+5c's
+:   Compelling
+:   Consistent
+:   Convincing
+:   Charming
+:   Curious
 
 ... plus other approaches
