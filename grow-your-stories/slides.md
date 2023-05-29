@@ -1,11 +1,7 @@
-% Grow Your Stories (With People Who Care)
+% Grow Your Stories
+  (With People Who Care)
 % Will Estes
 % May 27, 2023
----
-
-# Grow Your Stories
-## With People Who Care
-
 ---
 
 ## Why?
@@ -15,20 +11,16 @@
 - Maybe to share them;
 - Maybe just for ourselves.
 
----
-
 ## What?
 
 - write
 - learn
 - share and respond
----
+
 ### We write ...
 
 - maybe a whole story
 - maybe try something out
-
----
 
 ### We learn ...
 
@@ -38,8 +30,6 @@
 
 Games, exercises, discussion / q&a
 
----
-
 ### We share and respond ...
 
 - as a community
@@ -48,20 +38,16 @@ Games, exercises, discussion / q&a
 
 We call it *Collaborative Feedback*.
 
----
+## It's as easy as ...
 
-### It's as easy as ...
-
-Seedling
+1 - Seedling
 : new writers and new stories need wild encouragement
 
-SAPLING
+2 - SAPLING
 : what works? Where is their room for growth?
 
 Tree
 : Does the story do what you want it to do in the ways you want that done?
-
----
 
 ## seedling feedback
 
@@ -69,8 +55,6 @@ Tree
 - What intrigues you about the story?
 
 ... plus other approaches
-
----
 
 ## Sapling feedback
 
