@@ -40,6 +40,7 @@ We call it *Collaborative Feedback*.
 
 ## It's as easy as ...
 
+::: incremental
 1 - Seedling
 : new writers and new stories need wild encouragement
 
@@ -48,6 +49,7 @@ We call it *Collaborative Feedback*.
 
 Tree
 : Does the story do what you want it to do in the ways you want that done?
+:::
 
 ## seedling feedback
 
